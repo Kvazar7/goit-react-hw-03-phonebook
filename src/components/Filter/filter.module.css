@@ -1,0 +1,12 @@
+.filter_label {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+
+.filter_label__input {
+    border-radius: 5px;
+    padding: 4px;
+    border-color: yellowgreen;
+}

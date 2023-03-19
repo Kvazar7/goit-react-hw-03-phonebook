@@ -1,0 +1,12 @@
+.contactlistitem {
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 5px;
+}
+
+.contactlistitem_button {
+    margin-left: 20px;
+    border-radius: 5px;
+    background-color: rgb(255, 150, 150);
+}

@@ -1,0 +1,27 @@
+.phonebook_form {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 5px;
+}
+
+.phonebook_form__label {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+}
+
+.phonebook_form__input {
+    border-radius: 5px;
+    padding: 4px;
+    border-color: yellowgreen;
+}
+
+.phonebook_form__button {
+    border-radius: 5px;
+    background-color: yellowgreen;
+}
+
+.phonebook_form__button:active {
+    background-color: orange;
+}
